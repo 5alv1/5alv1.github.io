@@ -1,4 +1,4 @@
-![Placeholder text](https://5alv1.github.io/notes/assets/images/roadmap.png)
+![Placeholder text](https://5alv1.github.io/assets/images/roadmap.png)
 We started with an overview of this very picture, we talked mainly about these topics:
 - Buffer overflow
 - ret2win
@@ -28,7 +28,7 @@ return 0;
 }
 ```
 
-![Placeholder text](https://5alv1.github.io/notes/assets/images/layout.png)
+![Placeholder text](https://5alv1.github.io/assets/images/layout.png)
 This is approximately the memory layout we have when we're executing a process.
 The stack is that part of the memory where we put all the local variables (it's sometimes referred as static memory), the peculiar thing about it is that it also contains all the return addresses we need so basically when we have
 ```asm
