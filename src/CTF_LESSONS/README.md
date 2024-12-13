@@ -1,0 +1,1 @@
+This is a series of lessons I will entertain to discuss the pwn category, I'm doing these lessons while I'm affiliated with K!nd4SUS
